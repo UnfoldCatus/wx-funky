@@ -1,7 +1,10 @@
 # Logs
 logs
 *.log
+<<<<<<< HEAD
+=======
 npm-debug.log*
+>>>>>>> 金色百年微信/master
 
 # Runtime data
 pids
@@ -24,6 +27,11 @@ coverage
 build/Release
 
 # Dependency directory
+<<<<<<< HEAD
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+.DS_Store
+=======
 node_modules
 
 # Optional npm cache directory
@@ -31,3 +39,4 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+>>>>>>> 金色百年微信/master
